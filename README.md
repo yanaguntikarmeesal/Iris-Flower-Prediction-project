@@ -1,10 +1,14 @@
 ## 📁 Project Structure
 
-iris-flower-prediction/
-├── app.py                # Streamlit app (UI + prediction logic)
-├── model.pkl        # Trained scikit-learn model
-├── requirements.txt      # Python dependencies
-└── README.md
+## iris-flower-prediction 🌸
+
+1 app.py                # Streamlit app (UI + prediction logic)
+
+2 model.pkl             # Trained scikit-learn model
+
+3 requirements.txt      # Python dependencies
+
+4 README.md
 
 ## 🚀 Getting Started
 
@@ -58,12 +62,9 @@ joblib
 ## 🤝 Contributing
 
 Pull requests are welcome. For major changes, please open an issue first.
-
-## 📄 License
-
-This project is licensed under the MIT License.
+ 
 
 ## 👤 Author
 
 **Your Name**
-[GitHub](https://github.com/<your-username>) · [LinkedIn](https://linkedin.com/in/<your-profile>)
+[GitHub](https://github.com/<yanaguntikarmeesal>) 
